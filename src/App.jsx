@@ -1,9 +1,11 @@
 import React from "react";
+import { Home } from "./pages/Home";
+import "./styles/global-styles.scss";
 
 function App() {
     return (
         <div className='App'>
-            <h1>Running App</h1>
+            <Home />
         </div>
     );
 }
