@@ -14,9 +14,10 @@
 
         > div {
             width: 35rem;
-            height: 5rem;
-            background-color: var(--dark);
-            color: var(--white);
+            height: 7rem;
+            background-image: url("../../assets/button-main.svg");
+
+            cursor: pointer;
         }
     }
 }

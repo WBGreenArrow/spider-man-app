@@ -8,10 +8,7 @@ export const Main = () => {
         <div className='main-container'>
             <div className='main-content'>
                 <img src={SpiderManMilesMorales} alt='Spider Man Miles Morales' />
-                <div>
-                    assista ao trailer
-                    <label></label>
-                </div>
+                <div></div>
             </div>
         </div>
     );
