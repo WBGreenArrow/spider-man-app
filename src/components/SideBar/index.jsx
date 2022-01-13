@@ -4,8 +4,9 @@ import "./styles.scss";
 export const SideBar = () => {
     return (
         <div className='side-bar-conatiner'>
-            <aside>
-                <label>Img</label>
+            <aside className='side-bar-content'>
+                <img src='https://github.com/WBGreenArrow.png' alt='profile-photo' />
+                <div className='online'></div>
                 <div>
                     <label>Instagram</label>
                     <label>Twitter</label>
