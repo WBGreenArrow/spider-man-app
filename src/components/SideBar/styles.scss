@@ -29,5 +29,26 @@
 
             background-color: #0acf83;
         }
+
+        .side-bar-network-content {
+            height: 22rem;
+            margin-top: 11rem;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: column;
+
+            > img {
+                width: 3.2rem;
+                height: 3.2rem;
+            }
+        }
+
+        .side-bar-search-logo {
+            width: 3.2rem;
+            height: 3.2rem;
+            margin-top: 50rem;
+        }
     }
 }
